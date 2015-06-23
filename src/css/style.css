@@ -1,0 +1,36 @@
+body {
+	text-align: center;
+	background-color: #f0f0f0;
+
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+.quizbox{
+	background: #f5f5f5;
+	border: 1px solid #FFF;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	box-shadow: 1px 2px 4px rgba(0,0,0,.4);
+	
+	margin-left: 25%;
+	margin-right: 25%;
+	padding-bottom: 15px;
+}
+
+th {
+	width: 50%;
+	height: 45px;
+}
+
+button {
+	height: 100%;
+	width: 100%;
+
+	font-size: 15px;
+}
